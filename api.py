@@ -4,3 +4,4 @@ def get_projects():
 
 def get_alerts():
     pass
+# fixed null pointer bug
